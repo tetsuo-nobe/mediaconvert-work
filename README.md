@@ -27,7 +27,7 @@
 
 
 ---
-## ステップ 1 からステップ 4
+## ステップ 1 からステップ 4: AWS Elemental MediaConvert トランスコードジョブの作成
 
 ![](images/image1.png)
 
@@ -189,6 +189,11 @@ ffprobe -v quiet -print_format json -show_streams Big_Buck_Bunny_1080_10s_30MB-7
 - 映像の解像度が 1280x720 に変わっていること
 - コーデックが H.264 であること
 - ファイルサイズが入力より小さくなっていること
+
+---
+## ステップ 5 からステップ 8: イベント駆動によるトランスコードのワークフロー
+
+![](images/image2.png)
 
 ---
 
