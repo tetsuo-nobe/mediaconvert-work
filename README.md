@@ -25,6 +25,12 @@
   - URL: `https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4`
   - ライセンス: Creative Commons Attribution 3.0（Blender Foundation）
 
+
+---
+## ステップ 1 からステップ 4
+
+![](images/image1.png)
+
 ---
 
 ## ステップ 1: S3 バケットの作成
